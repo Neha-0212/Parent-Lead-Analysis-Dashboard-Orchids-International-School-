@@ -58,7 +58,6 @@ Orchids_Parent_Lead_Analysis/
 │   ├── Dashboard                       # Live metrics, awareness gap, reasons, charts
 │   └── Instructions                    # Formula reference guide
 ├── README.md                           # This file
-└── build_dashboard.py                  # Python script to regenerate the workbook
 ```
 
 ---
