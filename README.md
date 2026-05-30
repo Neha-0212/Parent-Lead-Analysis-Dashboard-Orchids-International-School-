@@ -57,8 +57,6 @@ Orchids_Parent_Lead_Analysis/
 │   ├── Raw_Data                        # 100 parent lead records, 33 columns
 │   ├── Dashboard                       # Live metrics, awareness gap, reasons, charts
 │   └── Instructions                    # Formula reference guide
-│
-├── Orchids_Dashboard_Guide.docx        # Full step-by-step build guide (this repo)
 ├── README.md                           # This file
 └── build_dashboard.py                  # Python script to regenerate the workbook
 ```
@@ -275,5 +273,3 @@ Output: `Orchids_Parent_Lead_Analysis.xlsx` in the current directory.
 | Guide authored | May 2026 |
 
 ---
-
-*For questions about the dashboard formulas or chart setup, refer to `Orchids_Dashboard_Guide.docx` or the Instructions sheet inside the workbook.*
